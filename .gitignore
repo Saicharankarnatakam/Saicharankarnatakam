@@ -1,5 +1,8 @@
-﻿################################################################################
+﻿  ################################################################################
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
 /.vs
+/MyCodingArena/.vs/MyCodingArena/v16
+/MyCodingArena/MyCodingArena/obj/Debug/netcoreapp3.1
+/MyCodingArena/MyCodingArena/obj
